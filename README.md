@@ -1,4 +1,4 @@
 test-repo_web_hook
 ==================
 
-test slave:2
+test slave:3
